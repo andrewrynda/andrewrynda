@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andrewrynda
 - 👀 I’m interested in front-end development.
-- 🌱 I’m currently learninghtml, css, java-script, react and redux.
+- 🌱 I’m currently learning html, css, java-script, react and redux.
 
 <!---
 andrewrynda/andrewrynda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
